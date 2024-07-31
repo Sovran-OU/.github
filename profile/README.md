@@ -11,7 +11,7 @@ This is our [💩 PHP code](https://github.com/Sovran-OU/account.sovau.me) that 
 - [@dimonic](https://github.com/dimonic)
 - [@flipstack](https://github.com/flipstack)
 
-We ❤️ SQL Injections 🤦
+We ❤️ [SQL Injections](https://github.com/Sovran-OU/account.sovau.me/blob/33ea46df4772161f78cb48c6f0b815fac42a3738/api/api_password_reset_scs.php#L19) 🤦
 
 We read and share our customers passwords.
 
