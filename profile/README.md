@@ -3,7 +3,7 @@
 > [!TIP]
 > Download our customers password! https://gist.github.com/Sovau/20d730e5987ce1a6efaf07b2d512a76b
 
-This is our 💩 PHP code that we try to pass off as a Crypto 🦄. 
+This is our [💩 PHP code](https://github.com/Sovran-OU/account.sovau.me) that we try to pass off as a Crypto 🦄. 
 
 :poop: developers:
 
