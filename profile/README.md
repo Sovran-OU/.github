@@ -19,6 +19,6 @@ and we ~leak~ casually write their passwords to [log files](https://github.com/S
 
 We pretend they are encrypted, but leak our :poop: [🔑](https://github.com/Sovran-OU/account.sovau.me/blob/main/enc_secure.php).
 
-Re hardcode our [credentials](https://github.com/Sovran-OU/account.sovau.me/blob/main/sov_config.php)
+We hardcode our [credentials](https://github.com/Sovran-OU/account.sovau.me/blob/main/sov_config.php)
 
 
